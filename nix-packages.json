@@ -149,58 +149,58 @@
   "support_packages": [
     {
       "package": "Versioning",
+      "id": "versioning",
       "description": "",
       "repo": "https://raw.githubusercontent.com/fort-nix/nix-bitcoin/master/modules/versioning.nix",
       "icon": "core/static/images/nix.png",
-      "port": "",
       "dependencies": ""
     },
     {
       "package": "Security",
+      "id": "security",
       "description": "",
       "repo": "https://raw.githubusercontent.com/fort-nix/nix-bitcoin/master/modules/security.nix",
       "icon": "core/static/images/nix.png",
-      "port": "",
       "dependencies": ""
     },
     {
       "package": "Onion Addresses",
+      "id": "onion-addresses",
       "description": "",
       "repo": "https://raw.githubusercontent.com/fort-nix/nix-bitcoin/master/modules/onion-addresses.nix",
       "icon": "core/static/images/nix.png",
-      "port": "",
       "dependencies": ""
     },
     {
       "package": "Onion Services",
+      "id": "onion-services",
       "description": "",
       "repo": "https://raw.githubusercontent.com/fort-nix/nix-bitcoin/master/modules/onion-services.nix",
       "icon": "core/static/images/nix.png",
-      "port": "",
       "dependencies": ""
     },
     {
       "package": "Netns Isolation",
+      "id": "netns-isolation",
       "description": "",
       "repo": "https://raw.githubusercontent.com/fort-nix/nix-bitcoin/master/modules/netns-isolation.nix",
       "icon": "core/static/images/nix.png",
-      "port": "",
       "dependencies": ""
     },
     {
       "package": "Node Info",
+      "id": "nodeinfo",
       "description": "",
       "repo": "https://raw.githubusercontent.com/fort-nix/nix-bitcoin/master/modules/nodeinfo.nix",
       "icon": "core/static/images/nix.png",
-      "port": "",
       "dependencies": ""
     },
     {
       "package": "Backups",
+      "id": "backups",
       "description": "",
       "repo": "https://raw.githubusercontent.com/fort-nix/nix-bitcoin/master/modules/backups.nix",
       "icon": "core/static/images/nix.png",
-      "port": "",
       "dependencies": ""
     }
   ]
